@@ -1,4 +1,3 @@
-# Class Rectangle
 class Rectangle:
 
     count = 0  # class variable
